@@ -1,14 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
 //Variables para colores
 $color-dark-blue: rgb(24, 39, 71);
-$color-dark-red: rgb(86, 43, 8);
+$color-light-brown: rgb(187, 153, 129);
+$color-dark-brown: rgb(135, 100, 69);
 $color-light-green: rgb(100, 126, 104);
 $color-light-gray: rgb(216, 216, 216);
 
 //Variables tamaño de letras
-$text-large: 2.8rem;
-$text-medium: 1.4rem;
-$text-small: 1.2rem;
-$text-base: 1rem;
+$text-xlarge: 2.6rem;
+$text-large: 2.2rem;
+$text-medium: 1.5rem;
+$text-small: 1.3rem;
 $text-xsmall: 1rem;
